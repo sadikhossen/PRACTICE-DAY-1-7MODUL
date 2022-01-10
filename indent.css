@@ -1,0 +1,66 @@
+body{
+    font-family: 'Andada Pro', serif;
+}
+.half-width {
+    width:50%;
+    padding-left:10px;
+    margin-bottom:20px;
+}
+.togo {
+    display:flex;
+    
+}
+
+img {
+    width: 60%;
+   
+   
+}
+.top {
+    border-left :4px solid ;
+    border-image:linear-gradient(blue,cyan);
+    border-image-slice:1;
+
+}
+.tree {
+    text-decoration:none;
+    font-weight:40px;
+    border-radius:5px;
+    background-image:linear-gradient(orange,tomato);
+    padding:5px 10px;
+}
+.tree:hover{
+
+    color:white;
+    background-image:linear-gradient(blue ,cyan);
+}
+.pic1 {
+    background-color:rgb(152, 236, 236);
+    padding-left:5%;
+    margin:10px;
+}
+.pic2 {
+    background-color:rgb(238, 181, 190);
+    padding-left: 5%;
+    margin:10px;
+}
+.pic3 {
+    background-color:rgb(138, 138, 247);
+    padding-left:5%;
+    margin:10px;
+}
+.pic {
+    box-shadow: 10px 10px 20px  gray;
+}
+.top-banear {
+    background-image:url(images/shapes/shape-7.png);
+
+}
+.footer {
+    background-color: black;
+    text-align:center;
+   
+}
+.t {
+    color:white;
+}
